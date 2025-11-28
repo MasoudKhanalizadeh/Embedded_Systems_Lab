@@ -10,7 +10,7 @@ This project is part of my `embedded-systems-lab` – a collection of small embe
 ## 🖼 Project Preview
 
 **Photo:**  
-![ESP32 DevOps Mini Monitor](.Embedded_Systems_Lab/projects/esp32_devops_monitor/photo_2025-11-29_00-56-15.jpg)
+![ESP32 DevOps Mini Monitor](./photo_2025-11-29_00-56-15.jpg)
 
 **Demo Video:**  
 *(Embedded_Systems_Lab/projects/esp32_devops_monitor/doc_2025-11-29_00-55-46.mp4)*
