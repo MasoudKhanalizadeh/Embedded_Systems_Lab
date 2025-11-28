@@ -10,10 +10,10 @@ This project is part of my `embedded-systems-lab` – a collection of small embe
 ## 🖼 Project Preview
 
 **Photo:**  
-*(Add your image link here)*
+*(Embedded_Systems_Lab/projects/esp32_devops_monitor/photo_2025-11-29_00-56-15.jpg)*
 
 **Demo Video:**  
-*(Add your video link here)*
+*(Embedded_Systems_Lab/projects/esp32_devops_monitor/doc_2025-11-29_00-55-46.mp4)*
 
 ---
 
